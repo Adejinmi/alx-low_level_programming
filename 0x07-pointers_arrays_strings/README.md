@@ -1,1 +1,1 @@
-README
+more pointers arrays and strings
